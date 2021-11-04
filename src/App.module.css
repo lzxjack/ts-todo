@@ -1,0 +1,7 @@
+.center {
+    width: 1000px;
+    min-height: calc(100% - 40px);
+    /* background-color: rgb(36, 36, 36); */
+    margin: auto;
+    padding-bottom: 40px;
+}
